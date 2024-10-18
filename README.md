@@ -6,11 +6,11 @@ Welcome to **Muzone**, a platform designed to provide users with an immersive ex
 HTML, CSS 
 
 ## 🖼️ Screenshots
-![Home Page](https://github.com/user-attachments/assets/6ae9e913-0792-4f98-b7d8-f5ec242fcdea)
-![Music Section](https://github.com/user-attachments/assets/be0329f4-163c-4da5-bfa4-27f7e888f6cc)
-![Vedio section](https://github.com/user-attachments/assets/ec8ca63e-2ab3-42ab-b6a6-39bfa87fcfb7)
-![Gift Cards](https://github.com/user-attachments/assets/d8e9edc5-e6d2-4b20-ba30-320d5402ecb4)
-![Contact us here](https://github.com/user-attachments/assets/5f46ac64-5e28-4826-9765-5cb5fd74c7f8)
+![Home Page]((https://github.com/user-attachments/assets/a6cba26a-64fa-4a94-ab6b-ce0e7149b445))
+![Music Section](https://github.com/user-attachments/assets/d9b6bb1d-8d37-4fc6-a2d6-0a1835dc3bd0)
+![Vedio section](https://github.com/user-attachments/assets/9e26f34b-3455-4ec3-ab34-37b7e07b68a2)
+![Gift Cards](https://github.com/user-attachments/assets/c2a0316d-f65b-4eb1-89f1-f830d44c2cb6)
+![Contact us here](https://github.com/user-attachments/assets/a06b968d-7ca9-449d-8480-2712fde8215d)
 
 _
 ## 📝Future Improvements
